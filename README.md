@@ -1,4 +1,4 @@
-﻿# Carrosel de Imagens - Tailwind CSS
+﻿# Carrossel de Imagens - Tailwind CSS
 
 ![](./img/principal.png)
 
@@ -14,3 +14,4 @@ Projeto desenvolvido no curso Técnico em Desenvolvimento de Sistemas do SENAI, 
 ## Autor
 
 [Milla Regina](https://www.linkedin.com/in/milla-regina-468020206)
+
