@@ -1,15 +1,15 @@
-﻿# Carrosel de Imagens - Tailwind
+﻿# Carrosel de Imagens - Tailwind CSS
 
 ![](./img/principal.png)
 
 ## Descrição
 
-Projeto desenvolvido no curso Técnico em Desenvolvimento de Sistemas do SENAI, consiste na criação de um site com três imagens em animação infinita, utilizando HTML e TailWind.
+Projeto desenvolvido no curso Técnico em Desenvolvimento de Sistemas do SENAI, consiste na criação de um site com três imagens em animação infinita, utilizando HTML e Tailwind CSS.
 
 ## Tecnologias
 
 * HTML
-* CSS
+* Tailwind CSS
 
 ## Autor
 
